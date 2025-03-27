@@ -160,7 +160,66 @@ function smart_exit_custom_allowed_html($tags, $context) {
             'media'  => true,
             'type'   => true,
         ];
+        $tags['form'] = [
+            'action'   => true,
+            'method'   => true,
+            'target'   => true,
+            'class'    => true,
+            'id'       => true,
+            'style'    => true,
+        ];
         
+        $tags['input'] = [
+            'type'     => true,
+            'name'     => true,
+            'value'    => true,
+            'placeholder' => true,
+            'required' => true,
+            'checked'  => true,
+            'class'    => true,
+            'id'       => true,
+            'style'    => true,
+        ];
+        
+        $tags['button'] = [
+            'type'     => true,
+            'name'     => true,
+            'value'    => true,
+            'class'    => true,
+            'id'       => true,
+            'style'    => true,
+        ];
+        
+        $tags['label'] = [
+            'for'      => true,
+            'class'    => true,
+            'id'       => true,
+            'style'    => true,
+        ];
+        
+        $tags['textarea'] = [
+            'name'     => true,
+            'rows'     => true,
+            'cols'     => true,
+            'placeholder' => true,
+            'required' => true,
+            'class'    => true,
+            'id'       => true,
+            'style'    => true,
+        ];
+        
+        $tags['select'] = [
+            'name'     => true,
+            'class'    => true,
+            'id'       => true,
+            'style'    => true,
+        ];
+        
+        $tags['option'] = [
+            'value'    => true,
+            'selected' => true,
+            'style'    => true,
+        ];        
     }
     return $tags;
 }
