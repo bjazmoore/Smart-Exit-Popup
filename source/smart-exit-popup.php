@@ -219,7 +219,83 @@ function smart_exit_custom_allowed_html($tags, $context) {
             'value'    => true,
             'selected' => true,
             'style'    => true,
-        ];        
+        ];
+        $tags['ul'] = [
+            'class' => true,
+            'id'    => true,
+            'style' => true,
+        ];
+    
+        $tags['ol'] = [
+            'class' => true,
+            'id'    => true,
+            'style' => true,
+        ];
+    
+        $tags['li'] = [
+            'class' => true,
+            'id'    => true,
+            'style' => true,
+        ];
+
+        $tags['span'] = [
+            'class' => true,
+            'id'    => true,
+            'style' => true,
+        ];
+        
+        $tags['table'] = [
+            'class' => true,
+            'id'    => true,
+            'style' => true,
+            'border' => true,
+            'cellspacing' => true,
+            'cellpadding' => true,
+        ];
+        
+        $tags['thead'] = [
+            'class' => true,
+            'id'    => true,
+            'style' => true,
+        ];
+        
+        $tags['tbody'] = [
+            'class' => true,
+            'id'    => true,
+            'style' => true,
+        ];
+        
+        $tags['tfoot'] = [
+            'class' => true,
+            'id'    => true,
+            'style' => true,
+        ];
+        
+        $tags['tr'] = [
+            'class' => true,
+            'id'    => true,
+            'style' => true,
+        ];
+        
+        $tags['td'] = [
+            'class'   => true,
+            'id'      => true,
+            'style'   => true,
+            'colspan' => true,
+            'rowspan' => true,
+        ];
+        
+        $tags['th'] = [
+            'class'   => true,
+            'id'      => true,
+            'style'   => true,
+            'scope'   => true,
+            'colspan' => true,
+            'rowspan' => true,
+        ];
+    
+        // <br> is a void tag and doesn't take attributes, but it still needs to be whitelisted:
+        $tags['br'] = [];        
     }
     return $tags;
 }
