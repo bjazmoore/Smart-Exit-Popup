@@ -58,7 +58,7 @@ Display a fully customizable popup when users show intent to exit your site. Boo
 
 ## 🛠 Installation
 
-1. Download the [latest release from the Releases section](https://github.com/bjazmoore/Smart-Exit-Popup/releases/tag/1.0) of the repository.
+1. Download the [latest release from the Releases section](https://github.com/bjazmoore/Smart-Exit-Popup/releases/tag/1.1) of the repository.
 2. Unzip the plugin zip folder.
 3. Upload the plugin folder to `/wp-content/plugins/` or install via the Plugins menu  
 4. Activate the plugin through the “Plugins” menu in WordPress  
