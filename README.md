@@ -5,7 +5,7 @@
 **Requires at least:** 5.0  
 **Tested up to:** 6.7.2  
 **Requires PHP:** 7.2  
-**Stable tag:** 1.0  
+**Stable tag:** 1.1  
 **License:** MPL version 2.0  
 **License URI:** [https://www.gnu.org/licenses/gpl-2.0.html](https://www.gnu.org/licenses/gpl-2.0.html)
 
@@ -24,7 +24,6 @@ Display a fully customizable popup when users show intent to exit your site. Boo
 - [🔒 Privacy](#-privacy)
   - [✅ Compliance](#-compliance)
 - [📝 Changelog](#-changelog)
-- [⬆️ Upgrade Notice](#️-upgrade-notice)
 - [📄 License](#-license)
 
 ---
@@ -40,7 +39,8 @@ Display a fully customizable popup when users show intent to exit your site. Boo
 - Optional **header** and **footer bars** with gradient/solid color support
 - Flexible image support with positioning and scaling
 - Rich content editor – add links, images, even inline SVG and social buttons
-- **Power User Mode** unlocks advanced HTML (including `<svg>`, `<style>`, and more)
+- **Power User Mode** unlocks advanced HTML (including `<svg>`, `<style>`, `<form>`, and more)
+- Support for HTML `<form>`, `<input>`, `<button>`, and related tags in Power User Mode.
 - Optional “Don’t show again” checkbox (saves per-browser with localStorage)
 - Fully responsive and mobile-aware (disabled on touch devices)
 - Cookieless by design – no external trackers, no cookies
@@ -142,6 +142,9 @@ This plugin is considered compliant with:
 
 ## 📝 Changelog
 
+### 1.1
+- Added support for HTML `<form>`, `<input>`, `<button>`, and related tags in Power User Mode.
+
 ### 1.0
 
 - Initial release  
@@ -150,12 +153,6 @@ This plugin is considered compliant with:
 - Full rich-text editor with power-user mode for inline HTML/CSS/SVG  
 - Optional dismiss button and persistent localStorage preference  
 - Responsive design with flexible layout options  
-
----
-
-## ⬆️ Upgrade Notice
-
-**1.0** – Initial release of Smart Exit Popup with full customization and privacy-first design.
 
 ---
 
