@@ -13,6 +13,22 @@ Display a fully customizable popup when users show intent to exit your site. Boo
 
 ---
 
+## 📚 Table of Contents
+
+- [📌 Description](#-description)
+  - [🚀 Highlights](#-highlights)
+  - [💡 Perfect for](#-perfect-for)
+- [🛠 Installation](#-installation)
+- [📷 Screenshots](#-screenshots)
+- [❓ Frequently Asked Questions](#-frequently-asked-questions)
+- [🔒 Privacy](#-privacy)
+  - [✅ Compliance](#-compliance)
+- [📝 Changelog](#-changelog)
+- [⬆️ Upgrade Notice](#️-upgrade-notice)
+- [📄 License](#-license)
+
+---
+
 ## 📌 Description
 
 **Smart Exit Popup** helps you connect with users before they leave your site. With advanced exit-intent detection, rich content support, and full visual customization, it’s the perfect lightweight engagement tool.
@@ -42,25 +58,25 @@ Display a fully customizable popup when users show intent to exit your site. Boo
 
 ## 🛠 Installation
 
-1. Upload the plugin folder to `/wp-content/plugins/` or install via the Plugins menu
-2. Activate the plugin through the “Plugins” menu in WordPress
-3. Go to **Smart Exit Popup** in the admin menu to configure settings
+1. Upload the plugin folder to `/wp-content/plugins/` or install via the Plugins menu  
+2. Activate the plugin through the “Plugins” menu in WordPress  
+3. Go to **Smart Exit Popup** in the admin menu to configure settings  
 
 ---
 
 ## 📷 Screenshots
 
-1. Admin settings panel with content editor and visual options
+1. Admin settings panel with content editor and visual options  
    <br/><img src="screenshots/screenshot-1.png" alt="Screenshot 1" width="600" />
-2. Admin settings panel - popup window settings with color picker
+2. Admin settings panel - popup window settings with color picker  
    <br/><img src="screenshots/screenshot-2.png" alt="Screenshot 2" width="600" />
-3. Example popup with header and image overlay
+3. Example popup with header and image overlay  
    <br/><img src="screenshots/screenshot-3.png" alt="Screenshot 3" width="600" />
-4. Admin settings popup message editor in Power-User Mode
+4. Admin settings popup message editor in Power-User Mode  
    <br/><img src="screenshots/screenshot-4.png" alt="Screenshot 4" width="600" />
-5. Popup with social sharing icons and responsive layout
+5. Popup with social sharing icons and responsive layout  
    <br/><img src="screenshots/screenshot-5.png" alt="Screenshot 5" width="600" />
-6. Admin settings panel displaying privacy information
+6. Admin settings panel displaying privacy information  
    <br/><img src="screenshots/screenshot-6.png" alt="Screenshot 6" width="600" />
 
 ---
@@ -126,12 +142,12 @@ This plugin is considered compliant with:
 
 ### 1.0
 
-- Initial release
-- Exit-intent detection (top, left, right, bottom)
-- Customizable modal popup with header, footer, and image options
-- Full rich-text editor with power-user mode for inline HTML/CSS/SVG
-- Optional dismiss button and persistent localStorage preference
-- Responsive design with flexible layout options
+- Initial release  
+- Exit-intent detection (top, left, right, bottom)  
+- Customizable modal popup with header, footer, and image options  
+- Full rich-text editor with power-user mode for inline HTML/CSS/SVG  
+- Optional dismiss button and persistent localStorage preference  
+- Responsive design with flexible layout options  
 
 ---
 
