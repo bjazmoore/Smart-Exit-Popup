@@ -83,7 +83,7 @@ Display a fully customizable popup when users show intent to exit your site. Boo
 
 ---
 
-## 📷 Example Messages
+## 📦 Example Messages
 
 The folder [example messages](https://github.com/bjazmoore/Smart-Exit-Popup/tree/main/example%20messages) contains four examples of possible use cases for the Smart Exit Popup Plugin.  They are all rich in HTML and must be pasted into the content editor in **Power User Mode**.  Check out the [README file](https://github.com/bjazmoore/Smart-Exit-Popup/blob/main/example%20messages/README.md) in the folder for example screenshots.
 
