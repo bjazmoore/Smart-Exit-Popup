@@ -51,17 +51,17 @@ Display a fully customizable popup when users show intent to exit your site. Boo
 ## 📷 Screenshots
 
 1. Admin settings panel with content editor and visual options
-   <img src="screenshots/screenshot-1.png" alt="Screenshot 1" width="500" />
-1. Admin settings panel - popup window settings with color picker
-   https://github.com/bjazmoore/Smart-Exit-Popup/blob/main/screenshots/screenshot-2.png
-1. Example popup with header and image overlay
-   https://github.com/bjazmoore/Smart-Exit-Popup/blob/main/screenshots/screenshot-3.png
-1. Admin settings popup message editor in Power-User Mode
-   https://github.com/bjazmoore/Smart-Exit-Popup/blob/main/screenshots/screenshot-4.png
-1. Popup with social sharing icons and responsive layout
-   https://github.com/bjazmoore/Smart-Exit-Popup/blob/main/screenshots/screenshot-5.png
-1. Admin settings panel displaying privacy information
-   https://github.com/bjazmoore/Smart-Exit-Popup/blob/main/screenshots/screenshot-6.png
+   <br/><img src="screenshots/screenshot-1.png" alt="Screenshot 1" width="600" />
+2. Admin settings panel - popup window settings with color picker
+   <br/><img src="screenshots/screenshot-2.png" alt="Screenshot 2" width="600" />
+3. Example popup with header and image overlay
+   <br/><img src="screenshots/screenshot-3.png" alt="Screenshot 3" width="600" />
+4. Admin settings popup message editor in Power-User Mode
+   <br/><img src="screenshots/screenshot-4.png" alt="Screenshot 4" width="600" />
+5. Popup with social sharing icons and responsive layout
+   <br/><img src="screenshots/screenshot-5.png" alt="Screenshot 5" width="600" />
+6. Admin settings panel displaying privacy information
+   <br/><img src="screenshots/screenshot-6.png" alt="Screenshot 6" width="600" />
 
 ---
 
