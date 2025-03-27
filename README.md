@@ -51,7 +51,7 @@ Display a fully customizable popup when users show intent to exit your site. Boo
 ## 📷 Screenshots
 
 1. Admin settings panel with content editor and visual options
-   https://github.com/bjazmoore/Smart-Exit-Popup/blob/main/screenshots/screenshot-1.png
+   <img src="screenshots/screenshot-1.png" alt="Screenshot 1" width="500" />
 1. Admin settings panel - popup window settings with color picker
    https://github.com/bjazmoore/Smart-Exit-Popup/blob/main/screenshots/screenshot-2.png
 1. Example popup with header and image overlay
