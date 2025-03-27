@@ -144,6 +144,7 @@ This plugin is considered compliant with:
 
 ### 1.1
 - Added support for HTML `<form>`, `<input>`, `<button>`, and related tags in Power User Mode.
+- Added support for HTML tags for tables, lists and span also.
 
 ### 1.0
 
